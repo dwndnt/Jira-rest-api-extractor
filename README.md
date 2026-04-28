@@ -1,9 +1,5 @@
 # Jira Issue Extractor
 
-**Python Utility for Jira REST API Data Retrieval**
-
----
-
 ## Overview
 
 Jira Issue Extractor is a Python-based utility designed to retrieve issue data from Jira using the Jira REST API.
