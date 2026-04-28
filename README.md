@@ -273,7 +273,7 @@ This project currently uses:
 
 Because it offers:
 
-* Strong compatibility with enterprise Jira environments
+* Strong compatibility with enterprise Jira environments (on-premises server)
 * Better support for Jira Server / Data Center
 * Simpler response structure
 * Stable integration for reporting purposes
